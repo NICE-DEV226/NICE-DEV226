@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/upwjs2.jpeg" alt="NICE DEV avatar" width="5000" style="border-radius:50%; box-shadow:0 0 15px #00FF99;"/>
+  <img src="https://files.catbox.moe/upwjs2.jpeg" alt="NICE DEV avatar" width="500" style="border-radius:50%; box-shadow:0 0 15px #00FF99;"/>
 </p>
 
 
