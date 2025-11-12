@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+💻;Mobile+Developer+📱;Bot+Maker+🤖;SaaS+Builder+⚙️;Always+learning+new+techs+🔥" alt="Typing SVG" />
+  <img src="https://files.catbox.moe/upwjs2.jpeg" alt="NICE DEV avatar" width="150" style="border-radius:50%; box-shadow:0 0 15px #00FF99;"/>
 </p>
+
 
 ---
 
