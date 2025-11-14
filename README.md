@@ -21,7 +21,7 @@
 ### 🧠 Stack & Compétences
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,express,mongodb,prisma,postgres,html,css,tailwind,git,github,vscode,figma,linux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,express,mongodb,prisma,postgres,html,css,tailwind,git,github,vscode,figma,Python&perline=9" />
 </p>
 
 ---
