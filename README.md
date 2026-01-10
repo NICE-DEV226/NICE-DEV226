@@ -55,21 +55,18 @@ I'm a **SaaS-focused Full Stack Developer & Founder** who builds production-read
 | **WhatsApp Automation Platform** | SaaS-ready conversational automation system | Node.js, Baileys, MongoDB |
 
 ---
-
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NICE-DEV226&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=NICE-DEV226&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NICE-DEV226&theme=tokyonight&hide_border=true" />
+  <em>Consistent contributor focused on SaaS, automation, and scalable systems.</em>
 </p>
-
-<p align="center">
-  <em>Consistent contributor with a focus on product-driven development and SaaS architecture.</em>
-</p>
-
 
 ---
 
