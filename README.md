@@ -59,9 +59,17 @@ I'm a **SaaS-focused Full Stack Developer & Founder** who builds production-read
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NICE-DEV226&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NICE-DEV226&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NICE-DEV226&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NICE-DEV226&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <em>Consistent contributor with a focus on product-driven development and SaaS architecture.</em>
+</p>
+
 
 ---
 
