@@ -3,7 +3,7 @@
   <sub>Junior Software Developer · Computer Science Student</sub>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=1F070D&width=435&lines=aka+NICE-DEV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F070D&width=435&lines=aka+NICE-DEV)](https://git.io/typing-svg)
 
 <p align="center">
   <img 
