@@ -1,16 +1,23 @@
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#00FF99;">NICE DEV</span><br/>
-  <sub>SaaS Founder · Full Stack Developer</sub>
+  👋 Hi, I'm <span style="color:#00FF99;">Sawadogo Azael</span><br/>   
+  <sub>Junior Software Developer · Computer Science Student</sub>
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=1F070D&width=435&lines=aka+NICE-DEV)](https://git.io/typing-svg)
+
 <p align="center">
-  <img src="https://files.catbox.moe/upwjs2.jpeg" alt="NICE DEV avatar" width="420" style="border-radius:50%;" />
+  <img 
+    src="https://files.catbox.moe/upwjs2.jpeg" 
+    alt="NICE-DEV avatar" 
+    width="420" 
+    style="border-radius:50%;" 
+  />
 </p>
 
 <p align="center">
   <strong>
-    Building scalable SaaS products, automation systems,<br/>
-    and AI-powered solutions with a product-first mindset.
+    Backend-oriented developer passionate about building robust,<br/>
+    scalable systems and SaaS-ready applications.
   </strong>
 </p>
 
@@ -18,31 +25,33 @@
 
 ## 🧠 About Me
 
-I'm a **SaaS-focused Full Stack Developer & Founder** who builds production-ready products from concept to scale.
+My name is **Sawadogo Azael**, and my developer alias is **NICE-DEV**.
 
-- 🚀 Design and develop **web & mobile SaaS platforms**
-- ⚙️ Strong focus on **automation, APIs, and backend architecture**
-- 📈 Product mindset: **performance, UX, scalability, growth**
-- 🧩 Experience shipping features used in real-world products
-- 🎯 Goal: turn ideas into **reliable, monetizable SaaS businesses**
+I am a **Junior Software Developer** and **Computer Science student** with a strong interest in **backend development**, system architecture, and how software works under the hood.
+
+- 🔧 Enjoy designing **APIs, backend services, and clean architectures**
+- ⚙️ Backend-first mindset: scalability, maintainability, performance
+- 🚀 Learn by building real projects and production-oriented features
+- 📚 Continuously improving my skills in backend, databases, and software design
+- 🎯 Goal: grow into a strong backend engineer capable of building reliable SaaS products
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,nextjs,express,mongodb,postgres,prisma,tailwind,git,github,docker,vercel,figma,python&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,java,react,nextjs,flutter,dart,express,mongodb,postgres,prisma,git,github,docker,figma,python&perline=8" />
 </p>
 
 ---
 
-## 🔥 Core Expertise
+## 🔥 Core Interests & Focus
 
-- 💰 **SaaS Architectures & Business Models**
-- 🔐 **Auth, Roles & Payments** (JWT, OAuth, Stripe)
-- 🤖 **Automation & Messaging Bots** (Workflows, Triggers)
-- 📦 **Scalable APIs & Backend Systems**
-- 📊 **Analytics, Metrics & Product Growth**
+- 🧩 **Backend Development & APIs**
+- 🏗 **Clean Architecture & System Design**
+- 🔐 **Authentication & Role-Based Access**
+- 💰 **SaaS Foundations (subscriptions, payments, scalability)**
+- 🤖 **Automation & Backend Workflows**
 
 ---
 
@@ -51,10 +60,11 @@ I'm a **SaaS-focused Full Stack Developer & Founder** who builds production-read
 | Project | Description | Stack |
 |------|------------|------|
 | **[GrowUp](https://github.com/NICE-DEV226/GrowUp)** | Personal growth & productivity SaaS (mobile + dashboard) | React Native, Node.js, MongoDB |
-| **[NICE-CV](https://github.com/DARKMAN226/NICE-CV)** | Modern CV builder with premium UX | Next.js, Tailwind, Prisma |
-| **WhatsApp Automation Platform** | SaaS-ready conversational automation system | Node.js, Baileys, MongoDB |
+| **[NICE-CV](https://github.com/DARKMAN226/NICE-CV)** | Modern CV builder with clean UI & structured backend | Next.js, Tailwind, Prisma |
+| **WhatsApp Automation Platform** | Backend-driven automation & messaging system | Node.js, Baileys, MongoDB |
 
 ---
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -65,16 +75,24 @@ I'm a **SaaS-focused Full Stack Developer & Founder** who builds production-read
 </p>
 
 <p align="center">
-  <em>Consistent contributor focused on SaaS, automation, and scalable systems.</em>
+  <em>Consistent learner focused on backend engineering and real-world projects.</em>
 </p>
 
 ---
 
 ## 🌍 Currently Working On
 
-- 🚀 Subscription-based SaaS products  
+- 🚀 Backend-focused SaaS projects  
+- ⚙️ APIs & scalable backend systems  
 - 🤖 Automation & messaging platforms  
-- 📈 Tools for creators, founders & small businesses  
+
+---
+
+## 💬 Open To
+
+- 🌍 Remote **Junior Software / Backend Developer** roles
+- 🤝 Internship & collaboration opportunities
+- 🚀 Startup & SaaS-oriented projects
 
 ---
 
