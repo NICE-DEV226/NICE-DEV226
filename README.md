@@ -1,6 +1,10 @@
 <h1 align="center">
-  [![committers.top badge](https://user-badge.committers.top/burkina_faso_private/NICE-DEV226.svg)](https://user-badge.committers.top/burkina_faso_private/NICE-DEV226)
-  👋 Hi, I'm <span style="color:#00FF99;">Sawadogo Azael</span><br/>   
+  <a href="https://user-badge.committers.top/burkina_faso_private/NICE-DEV226">
+    <img src="https://user-badge.committers.top/burkina_faso_private/NICE-DEV226.svg" />
+  </a>
+  <br/>
+  👋 Hi, I'm <b>Sawadogo Azael</b>
+  <br/>
   <sub>Junior Software Developer · Computer Science Student</sub>
 </h1>
 
