@@ -65,7 +65,7 @@ I'm a self-taught full-stack developer with **2+ years of hands-on, production e
 
 **Infra & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,vercel,digitalocean&perline=8" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,vercel,digitalocean,aws&perline=8" />
 </p>
 
 **Tools**
@@ -80,11 +80,12 @@ I'm a self-taught full-stack developer with **2+ years of hands-on, production e
 ## 📘 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,kubernetes&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,kubernetes,java&perline=8" />
 </p>
 
 - **C++** — exploring for VR / game development
 - **Kubernetes** — container orchestration, scaling beyond single-service Docker setups
+- **Java** — broadening backend language fundamentals
 
 ---
 
