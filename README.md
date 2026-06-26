@@ -1,107 +1,24 @@
 <h1 align="center">
-  <a href="https://user-badge.committers.top/burkina_faso_private/NICE-DEV226">
-    <img src="https://user-badge.committers.top/burkina_faso_private/NICE-DEV226.svg" />
-  </a>
+  👋 Hi, I'm <b>Sawadogo Azaël</b>
   <br/>
-  👋 Hi, I'm <b>Sawadogo Azael</b>
-  <br/>
-  <sub>Junior Software Developer · Computer Science Student</sub>
+  <sub>Full-Stack Developer · Backend-Focused · Computer Science Student</sub>
 </h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F070D&width=435&lines=aka+NICE-DEV)](https://git.io/typing-svg)
 
 <p align="center">
   <img 
     src="https://files.catbox.moe/upwjs2.jpeg" 
-    alt="NICE-DEV avatar" 
-    width="420" 
+    alt="Azaël avatar" 
+    width="160" 
     style="border-radius:50%;" 
   />
 </p>
 
 <p align="center">
   <strong>
-    Backend-oriented developer passionate about building robust,<br/>
-    scalable systems and SaaS-ready applications.
+    I design and ship backend systems, APIs, and SaaS products —<br/>
+    from architecture to production deployment.
   </strong>
 </p>
-
----
-
-## 🧠 About Me
-
-My name is **Sawadogo Azael**, and my developer alias is **NICE-DEV**.
-
-I am a **Junior Software Developer** and **Computer Science student** with a strong interest in **backend development**, system architecture, and how software works under the hood.
-
-- 🔧 Enjoy designing **APIs, backend services, and clean architectures**
-- ⚙️ Backend-first mindset: scalability, maintainability, performance
-- 🚀 Learn by building real projects and production-oriented features
-- 📚 Continuously improving my skills in backend, databases, and software design
-- 🎯 Goal: grow into a strong backend engineer capable of building reliable SaaS products
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,java,react,nextjs,flutter,dart,express,mongodb,postgres,prisma,git,github,docker,figma,python&perline=8" />
-</p>
-
----
-
-## 🔥 Core Interests & Focus
-
-- 🧩 **Backend Development & APIs**
-- 🏗 **Clean Architecture & System Design**
-- 🔐 **Authentication & Role-Based Access**
-- 💰 **SaaS Foundations (subscriptions, payments, scalability)**
-- 🤖 **Automation & Backend Workflows**
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|------|------------|------|
-| **[GrowUp](https://github.com/NICE-DEV226/GrowUp)** | Personal growth & productivity SaaS (mobile + dashboard) | React Native, Node.js, MongoDB |
-| **[NICE-CV](https://github.com/DARKMAN226/NICE-CV)** | Modern CV builder with clean UI & structured backend | Next.js, Tailwind, Prisma |
-| **WhatsApp Automation Platform** | Backend-driven automation & messaging system | Node.js, Baileys, MongoDB |
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=NICE-DEV226&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak Stats" 
-  />
-</p>
-
-<p align="center">
-  <em>Consistent learner focused on backend engineering and real-world projects.</em>
-</p>
-
----
-
-## 🌍 Currently Working On
-
-- 🚀 Backend-focused SaaS projects  
-- ⚙️ APIs & scalable backend systems  
-- 🤖 Automation & messaging platforms  
-
----
-
-## 💬 Open To
-
-- 🌍 Remote **Junior Software / Backend Developer** roles
-- 🤝 Internship & collaboration opportunities
-- 🚀 Startup & SaaS-oriented projects
-
----
-
-## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:nicedev226@gmail.com">
@@ -117,10 +34,93 @@ I am a **Junior Software Developer** and **Computer Science student** with a str
 
 ---
 
+## 🧠 About Me
+
+I'm a self-taught full-stack developer with **2+ years of hands-on, production experience**, currently completing a Computer Science degree (3rd year) in Burkina Faso. I build real products — not tutorials — and ship them.
+
+- 🏗 **Backend-first mindset**: clean architecture, scalability, maintainability
+- 🚀 Built and launched SaaS products end-to-end, from architecture to deployment
+- 🔐 Comfortable with API design, authentication, payments, and infrastructure
+- 🌍 Strong interest in **West African fintech & business digitization** — building tech that solves real local problems
+- 🎯 Currently open to **remote roles, freelance missions, and internships**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,go,python&perline=8" />
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,react,nextjs,reactnative&perline=8" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite,prisma&perline=8" />
+</p>
+
+**Infra & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,vercel,digitalocean&perline=8" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma&perline=8" />
+</p>
+
+**Other:** Baileys (WhatsApp automation) · BullMQ · shadcn/ui · pgvector
+
+---
+
+## 📘 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,kubernetes&perline=8" />
+</p>
+
+- **C++** — exploring for VR / game development
+- **Kubernetes** — container orchestration, scaling beyond single-service Docker setups
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[OpsHero](https://opshero.me)** | Live SaaS — CLI tool for CI/CD log analysis using a hybrid regex + AI engine. Published on PyPI, Free/Pro/Team tiers. | Python, AI/NLP |
+| **Memexa** | MCP Server giving AI agents persistent, project-owned memory — multi-agent agnostic by design. | Next.js, PostgreSQL/pgvector, Sentence Transformers |
+| **Argus** | AI agent security middleware for prompt injection detection, mapped to OWASP LLM01/ASI01/ASI02. | Node.js / TypeScript |
+| **[GrowUp](https://github.com/NICE-DEV226/GrowUp)** | Budget management app with a tontine module, built for the CFA/XOF market. | React Native, Node.js, MongoDB |
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=NICE-DEV226&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak Stats" 
+  />
+</p>
+
+---
+
+## 💬 Open To
+
+- 🌍 Remote **backend / full-stack developer** roles
+- 🤝 Internship opportunities
+- 🚀 Freelance missions — SaaS, APIs, business digitization, mobile money integration
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NICE-DEV226&label=Profile+Views&color=00FF99&style=flat" />
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=90&section=footer"/>
 </p>
