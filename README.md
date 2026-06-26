@@ -56,7 +56,9 @@ I'm a self-taught full-stack developer with **2+ years of hands-on, production e
 **Frameworks & Libraries**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,react,nextjs,reactnative&perline=8" />
+  <img src="https://raw.githubusercontent.com/NICE-DEV226/NICE-DEV226/main/assets/mascot.svg" width="48" height="48" alt="XCore Framework" title="XCore Framework" />
 </p>
+<sub>+ <b>XCore Framework</b> — internal framework I co-built and maintain</sub>
 
 **Databases**
 <p>
