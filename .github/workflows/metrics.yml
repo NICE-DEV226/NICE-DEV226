@@ -1,0 +1,52 @@
+name: Metrics
+on:
+  # Mise à jour automatique tous les jours à minuit
+  schedule: [{cron: "0 0 * * *"}]
+  # Permet de relancer manuellement depuis l'onglet Actions
+  workflow_dispatch:
+  # Relance à chaque push sur main
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+
+          # Thème visuel
+          template: classic
+          config_timezone: Africa/Ouagadougou
+
+          # Base : header, activité récente, communauté, repos, métadonnées
+          base: header, activity, community, repositories, metadata
+
+          # Langages les plus utilisés
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_threshold: 0%
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+
+          # Habitudes de code (heures d'activité, jours de la semaine)
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+
+          # Repos mis en avant (récents et les plus populaires)
+          plugin_repositories: yes
+          plugin_repositories_featured: NICE-DEV226/OpsHero
+
+          # Calendrier de contributions
+          plugin_calendar: yes
+
+          # Technologies mentionnées dans tes projets (topics GitHub)
+          plugin_stars: yes
+          plugin_stars_limit: 4
