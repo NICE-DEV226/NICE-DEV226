@@ -89,8 +89,8 @@ Développeur backend et architecte logiciel, en 3ème année de Licence Informat
 | Projet | Description | Stack |
 |---|---|---|
 | **[OpsHero](https://opshero.me)** | Outil d'analyse de logs CI/CD — CLI + dashboard web, moteur hybride regex + IA. Publié sur PyPI, tiers Free/Pro/Team. | Python, AI/NLP |
-| **Memexa** | Serveur MCP donnant aux agents IA une mémoire persistante, agnostique du framework agent. | Next.js, PostgreSQL/pgvector, Sentence Transformers |
-| **Argus** | Middleware de sécurité pour agents IA — détection d'injection de prompt, mappé OWASP LLM01/ASI01/ASI02. | Node.js / TypeScript |
+| **[Memexa](https://memexa.tech)** | Serveur MCP donnant aux agents IA une mémoire persistante, agnostique du framework agent. | Next.js, PostgreSQL/pgvector, Sentence Transformers |
+| **Argus** | Middleware de sécurité pour agents IA — détection d'injection de prompt, mappé OWASP LLM01/ASI01/ASI02. | Python |
 | **[GrowUp](https://github.com/NICE-DEV226/GrowUp)** | App de gestion budgétaire avec module tontine, pensée pour le marché CFA/XOF. | React Native, Node.js, MongoDB |
 
 ---
@@ -98,19 +98,10 @@ Développeur backend et architecte logiciel, en 3ème année de Licence Informat
 ## Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NICE-DEV226&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICE-DEV226&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://raw.githubusercontent.com/NICE-DEV226/NICE-DEV226/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NICE-DEV226&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NICE-DEV226&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&rank=-C,-B" />
-</p>
-
-> Si une carte ci-dessus ne s'affiche pas : les instances publiques de `github-readme-stats` / `github-profile-trophy` tombent régulièrement en rate-limit (problème connu, pas lié à ce fichier). Un simple rafraîchissement suffit en général — sinon, self-host sur ton propre Vercel règle le problème définitivement (voir note en bas).
+<sub>Généré via [lowlighter/metrics](https://github.com/lowlighter/metrics) par GitHub Action — voir la configuration en bas de ce fichier pour la mise en place.</sub>
 
 ---
 
