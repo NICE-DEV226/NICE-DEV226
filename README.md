@@ -3,6 +3,9 @@
 # NICE-DEV
 ### Backend Engineering · Software Architecture · DevOps
 
+[![committers.top badge](https://user-badge.committers.top/burkina_faso/NICE-DEV226.svg)](https://user-badge.committers.top/burkina_faso/NICE-DEV226)
+
+
 Reliable APIs, backend systems and developer tools — with a growing focus on **Go, Rust and cloud infrastructure**.
 
 [Portfolio](https://www.sawadogoazael.com/) · [GitHub](https://github.com/NICE-DEV226)
