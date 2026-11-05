@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NICE-DEV226/NICE-DEV226/main/profile-banner.png" alt="NICE-DEV — Backend Engineering, Software Architecture, Rust and DevOps" width="100%" />
-
 # NICE-DEV
 ### Backend Engineering · Software Architecture · DevOps
 
