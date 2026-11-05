@@ -1,0 +1,12 @@
+user: NICE-DEV226
+style: classic
+include:
+  private: true
+  orgs: true
+languages:
+  count: 6
+  other: true
+summary:
+  ring: github
+contributions:
+  includeOpen: true

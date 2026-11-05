@@ -95,14 +95,30 @@ An early-stage project exploring explicit information-flow policies and audit re
 - DevOps fundamentals: containers, CI/CD, deployment, and observability
 - Testing race conditions, idempotency, and failure handling
 
+<!-- cool-readme:start -->
 ## GitHub activity
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NICE-DEV226&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICE-DEV226&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages" />
-
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/summary-dark.svg">
+  <img src="stats/summary-light.svg" width="450" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/languages-dark.svg">
+  <img src="stats/languages-light.svg" width="350" alt="Most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/contributions-dark.svg">
+  <img src="stats/contributions-light.svg" width="450" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/weekly-dark.svg">
+  <img src="stats/weekly-light.svg" width="350" alt="Weekly rhythm">
+</picture>
+</p>
+<!-- cool-readme:end -->
 
 ---
 
